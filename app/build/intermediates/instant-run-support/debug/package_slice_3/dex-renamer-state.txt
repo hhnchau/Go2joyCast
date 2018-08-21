@@ -1,0 +1,4 @@
+#Thu Jan 18 00:19:40 ICT 2018
+base.0=D\:\\Library\\Go2joyCast\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\61
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Go2JoyCast</string>
+    <string name="cast_app_id">B854C2B4</string>
+    <string name="image_view"> </string>
+    <string name="app_need_to_connect_internet_please_turn_on_the_internet">Ứng dụng cần kết nối Internet khi sử dụng. Vui lòng bật Wifi hoặc 3G.</string>
+    <string name="txt_1_2_setting">Cài đặt</string>
+    <string name="txt_search">Tìm kiếm</string>
+    <string name="ok">Đồng ý</string>
+    <string name="exit">Please press again to exit.</string>
+    <string name="txt_disconnect_title">Mất kết nối</string>
+    <string name="txt_disconnect_message">Thiết bị khác đang kết nối Go2Joy ngay bây giờ!</string>
+    <string name="txt_not_connected_title">Chưa có kết nối nào</string>
+    <string name="txt_not_connected_message">Vui lòng kết nối Go2JoyCast để trình chiếu</string>
+    <string name="txt_connection_title">Kết nối</string>
+    <string name="txt_connection_message">Hiện tại, không thiết bị nào được tìm thấy. Để kết nối tới Go2Joy Cast vui lòng kết nối cùng đường truyền mạng.</string>
+
+
+    <string name="txt_recently">Trang gần đây</string>
+    <string name="txt_recommend">Go2Joy đề xuất</string>
+
+    <string name="img_cast">http://go2joy.vn/mail1/images/whiteicon.png</string>
+    <string name="title_cast">Go2Joy Cast</string>
+    <string name="cast_to">Truyền tới</string>
+
+</resources>

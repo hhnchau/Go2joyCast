@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Go2JoyCast</string>
+    <string name="cast_app_id">B854C2B4</string>
+    <string name="image_view"> </string>
+    <string name="app_need_to_connect_internet_please_turn_on_the_internet">Application need to connect to internet. Please turn on the mobile internet or wifi.</string>
+    <string name="txt_1_2_setting">Setting</string>
+    <string name="txt_search">Search</string>
+    <string name="ok">OK</string>
+    <string name="exit">Please press again to exit.</string>
+    <string name="txt_disconnect_title">Disconnect</string>
+    <string name="txt_disconnect_message">Another device was connecting Go2JoyCast right now!</string>
+    <string name="txt_not_connected_title">Not Connected</string>
+    <string name="txt_not_connected_message">Please connect to Cast device</string>
+    <string name="txt_connection_title">Connection</string>
+    <string name="txt_connection_message">Currently, No devices was found. To connect to Go2Joy Cast please connecting to same network.</string>
+
+    <string name="txt_recently">Recently</string>
+    <string name="txt_recommend">Go2Joy Recommend</string>
+
+    <string name="img_cast">http://go2joy.vn/mail1/images/whiteicon.png</string>
+    <string name="title_cast">Go2Joy Cast</string>
+    <string name="cast_to">Cast to</string>
+
+</resources>
